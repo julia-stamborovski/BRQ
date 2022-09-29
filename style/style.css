@@ -124,7 +124,6 @@ i {
 
 .label {
     display: inline-block;
-    margin: 0 5px 20px;
     padding: 3px 8px;
     color: #aaa;
     text-shadow: 0 1px black;
@@ -136,3 +135,17 @@ i {
     color: white;
     background: rgba(0, 0, 0, 0.25);
 }
+
+#row-2
+ {
+    margin-left: 50px;
+ }
+
+ #mapa-search
+ {
+    position: absolute;
+    margin-left: -260px;
+    background-color: #fff;
+    padding: 20px 80px;
+    border-radius: 10px;
+ }
